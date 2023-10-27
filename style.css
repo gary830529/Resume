@@ -10,8 +10,6 @@ body {
     margin-bottom: 0.25em;
 }
 
-.custom-ul li {
-}
 
 .custom-ol {
     margin-top: 0.25em;
@@ -43,7 +41,7 @@ h2::after {
     height: 1px;
     background-color: lightgray;
     position: absolute;
-    bottom: 0; /
+    bottom: 0;
     left: 0;
 }
 
@@ -63,11 +61,6 @@ h3 {
     align-items: center;
 }
 
-.left {
-}
-
-.right {
-}
 
 main { 
     display: grid;
