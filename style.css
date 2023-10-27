@@ -97,3 +97,12 @@ h1, h2, h3 {
 #mainLeft {
     border-right: 1px solid lightgray;
 }
+
+a {
+    color: #000000;
+    text-decoration: underline; /* Removes the underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Ensures the underline doesn't appear on hover either */
+}
