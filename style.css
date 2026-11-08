@@ -19,6 +19,23 @@ body {
     margin-bottom: 0.25em;
 }
 
+/* Compact lists for the narrow left column (Licensure, Awards, Associations) */
+.plain-ul {
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
+    padding-left: 1.1em;
+}
+
+.tagline {
+    margin: 0 auto 0.4em;
+    color: #1a7a40;
+    font-weight: 500;
+}
+
+.scholar-note {
+    margin-top: 0.4em;
+}
+
 h1 {
     font-size: 2.6em;
     font-weight: 700;
