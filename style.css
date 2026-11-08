@@ -101,7 +101,8 @@ section {
     margin: auto 0.5em 1.5em 1em;
 }
 
-i {
+/* spacing after icons only, not italic text */
+i.fa, i.fas, i.fab, i.ai {
     margin-right: .25em;
 }
 
